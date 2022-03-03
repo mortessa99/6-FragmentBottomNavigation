@@ -16,12 +16,10 @@ class MainActivity : AppCompatActivity() {
             when(it.itemId) {
                 R.id.home -> replaceFragment(HomeFragment())
                 R.id.call -> replaceFragment(CallFragment())
-                R.id.add -> replaceFragment(AddFragment())
+                R.id.add  -> replaceFragment(AddFragment())
             }
             true
         }
-
-
     }
 
     fun replaceFragment(fragment: Fragment) {
