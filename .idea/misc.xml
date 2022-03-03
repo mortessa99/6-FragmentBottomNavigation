@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/BARNAME/ANDROID/1-Android/1-CodeAcademy/0-Projects/6-FragmentBottomNavigation/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/BARNAME/ANDROID/1-Android/1-CodeAcademy/0-Projects/6-FragmentBottomNavigation/app/src/main/res/layout/fragment_add.xml" value="0.19384615384615383" />
+        <entry key="..\:/BARNAME/ANDROID/1-Android/1-CodeAcademy/0-Projects/6-FragmentBottomNavigation/app/src/main/res/layout/fragment_call.xml" value="0.19384615384615383" />
+        <entry key="..\:/BARNAME/ANDROID/1-Android/1-CodeAcademy/0-Projects/6-FragmentBottomNavigation/app/src/main/res/layout/fragment_home.xml" value="0.19384615384615383" />
+        <entry key="..\:/BARNAME/ANDROID/1-Android/1-CodeAcademy/0-Projects/6-FragmentBottomNavigation/app/src/main/res/menu/menu.xml" value="0.196875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_14" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
